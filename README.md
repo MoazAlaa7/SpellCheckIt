@@ -17,8 +17,11 @@ https://github.com/MoazAlaa7/SpellCheckIt/assets/125766238/c5f73dc0-d396-40ca-ad
    ```git clone https://github.com/MoazAlaa7/SpellCheckIt.git```
 2. _Go to path:_
 
-    ```SpellCheckIt\out\production\SpellCheckIt```
+    ```\SpellCheckIt\src```
 3. _Run command_:
+   
+     ```javac Main.java```
+4. _Run command_:
    
      ```java Main```
 
